@@ -36,3 +36,4 @@ title = "Neural and Evolutionary Computing"
 highlight_title = "scripts/highlight_title.rhai"
 highlight_author = "scripts/highlight_author.rhai"
 highlight_conference = "scripts/highlight_conference.rhai"
+
